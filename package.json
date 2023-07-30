@@ -1,0 +1,19 @@
+{
+  "name": "exist-scripts",
+  "version": "1.0.0",
+  "description": "scripts for exist.io",
+  "author": {
+    "name": "tikagan",
+    "email": "ganapathy.kritika@gmail.com"
+  },
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tikagan/exist-scripts.git"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
